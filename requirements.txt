@@ -1,0 +1,6 @@
+aiogram
+sqlighter
+sqlite3
+random
+logging
+datetime
